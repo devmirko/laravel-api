@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/back.css') }}" rel="stylesheet">
     <script src="{{ asset('js/back.js') }}" defer></script>
 </head>
 <body>
